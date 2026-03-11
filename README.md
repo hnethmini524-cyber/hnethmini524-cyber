@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">Hi I'm Hirushi Nethmini</h1>
+<h3 align="center">Full Stack Developer</h3>
 
-<!--
-**hnethmini524-cyber/hnethmini524-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🌟 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I love transforming ideas into interactive and user-friendly applications.
+
+🚀 Aspiring Full-Stack Developer
+☕ Java | SpringBoot | MySQL  
+💡 Passionate about building real-world applications
+🧠 Curious, exploring new technologies and improving my skills
+
+---
+
+## 💻 Core Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,springboot,mysql,js,html,css,react,bootstrap" />
+</p>
+
+---
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hnethmini524-cyber&show_icons=true&theme=tokyonight)

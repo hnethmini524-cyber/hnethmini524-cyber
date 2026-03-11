@@ -7,17 +7,17 @@
 
 I love transforming ideas into interactive and user-friendly applications.
 
-🚀 Aspiring Full-Stack Developer
-☕ Java | SpringBoot | MySQL  
-💡 Passionate about building real-world applications
+🚀 Aspiring Full-Stack Developer <br>
+☕ Java | SpringBoot | MySQL <br> 
+💡 Passionate about building real-world applications <br>
 🧠 Curious, exploring new technologies and improving my skills
 
 ---
 
 ## 💻 Core Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,springboot,mysql,js,html,css,react,bootstrap" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,js,html,css,react,bootstrap" />
 </p>
 
 ---

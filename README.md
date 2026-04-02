@@ -21,4 +21,4 @@ I love transforming ideas into interactive and user-friendly applications.
 </p>
 
 ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hnethmini524-cyber&show_icons=true&theme=tokyonight&v=2)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=hnethmini524-cyber&show_icons=true&theme=tokyonight)

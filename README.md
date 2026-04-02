@@ -23,8 +23,7 @@ I love transforming ideas into interactive and user-friendly applications.
 ---
 ### 📊 My Stats
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=hnethmini524-cyber&show_icons=true&theme=tokyonight)
-
-<p align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hnethmini524-cyber&theme=tokyonight" />
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hnethmini524-cyber&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hnethmini524-cyber&theme=tokyonight" height="180" />
 </p>

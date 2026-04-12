@@ -21,6 +21,20 @@ I love transforming ideas into interactive and user-friendly applications.
 </p>
 
 ---
+
+## 🛠 Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse" />
+</p>
+
+**Other Tools:**  
+- curl (API Testing)  
+- MySQL Workbench  
+- Maven  
+
+---
+
 ### 📊 My Stats
 
 <p align="center">

@@ -1,5 +1,5 @@
-<h1 align="center">Hi I'm Hirushi Nethmini</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h1 align="center">👋 Hi, I'm Hirushi Nethmini</h1>
+<h3 align="center">Full Stack Software Engineer</h3>
 
 ---
 
@@ -7,25 +7,30 @@
 
 I love transforming ideas into interactive and user-friendly applications.
 
-🚀 Aspiring Full-Stack Developer <br>
+🚀 Aspiring Full-Stack Software Engineer <br>
 ☕ Java | SpringBoot | MySQL <br> 
 💡 Passionate about building real-world applications <br>
 🧠 Curious, exploring new technologies and improving my skills
 
 ---
 
-## 💻 Core Stack
+## 💻 Frontend Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,js,html,css,react,bootstrap" />
+<img src="https://skillicons.dev/icons?i=js,html,css,react,bootstrap,tailwind" />
 </p>
 
----
+## 💻 Backend Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,mysql" />
+</p>
 
 ## 🛠 Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,selenium,postman"/>
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=Cloudinary&logoColor=white"/>
 </p>
 
 **Other Tools:**  

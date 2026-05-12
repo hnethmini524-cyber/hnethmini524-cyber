@@ -5,7 +5,7 @@
 
 ## 🌟 About Me
 
-I love transforming ideas into interactive and user-friendly applications.
+I am currently undergraduate student in The Open University of Sri Lanka. I love transforming ideas into interactive and user-friendly applications.
 
 🚀 Aspiring Full-Stack Software Engineer <br>
 ☕ Java | SpringBoot | MySQL <br> 
@@ -42,16 +42,11 @@ I love transforming ideas into interactive and user-friendly applications.
 
 ### 📊 My Stats
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=hnethmini&show_icons=true&theme=vision-glow" alt="GitHub Stats" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hnethmini&layout=compact&theme=vision-glow" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hnethmini524-cyber&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="180" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hnethmini524-cyber&theme=tokyonight" height="180" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hnethmini524-cyber&theme=tokyo-night" width="100%" />
@@ -59,8 +54,11 @@ I love transforming ideas into interactive and user-friendly applications.
 
 ---
 
-
 ## 🌐 Connect with Me
+
+I'm always open to collaborating on **Full-Stack projects** or discussing **Technologies**. Whether you have a question or just want to say hi, you can contact me.
+
+📍 **Location:** Colombo, Sri Lanka
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]([https://linkedin.com/in/your-profile-username](https://www.linkedin.com/in/hirushi-nethmini-444b36380 )
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:ka.hirushinethmini@gmail.com

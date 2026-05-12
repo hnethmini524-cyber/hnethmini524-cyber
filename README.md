@@ -42,10 +42,19 @@ I love transforming ideas into interactive and user-friendly applications.
 
 ### 📊 My Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hnethmini524-cyber&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="180" />
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=hnethmini&show_icons=true&theme=vision-glow" alt="GitHub Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hnethmini&layout=compact&theme=vision-glow" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hnethmini524-cyber&theme=tokyonight" height="180" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hnethmini524-cyber&theme=tokyo-night" width="100%" />
 </p>
 
 ---

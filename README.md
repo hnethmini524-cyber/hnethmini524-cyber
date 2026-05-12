@@ -44,5 +44,16 @@ I love transforming ideas into interactive and user-friendly applications.
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hnethmini524-cyber&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="180" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hnethmini524-cyber&theme=tokyonight" height="180" />
 </p>
+
+---
+
+
+## 🌐 Connect with Me
+
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]([https://linkedin.com/in/your-profile-username](https://www.linkedin.com/in/hirushi-nethmini-444b36380 )
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:ka.hirushinethmini@gmail.com
+)
 

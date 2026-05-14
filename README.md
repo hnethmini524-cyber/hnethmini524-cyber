@@ -22,13 +22,13 @@ I am currently undergraduate student in The Open University of Sri Lanka. I love
 
 ## 💻 Backend Stack
 
-<p align="center">
+<p align="left">
 <img src="https://skillicons.dev/icons?i=java,spring,mysql,python,nodejs" />
 </p>
 
 ## 🛠 Tools
 
-<p align="center">
+<p align="left">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,selenium,postman"/>
 <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=Cloudinary&logoColor=white"/>
 </p>

@@ -16,7 +16,7 @@ I am currently undergraduate student in The Open University of Sri Lanka. I love
 
 ## 💻 Frontend Stack
 
-<p align="center">
+<p align="left">
 <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,bootstrap,tailwind" />
 </p>
 

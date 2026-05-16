@@ -59,7 +59,7 @@ I am currently undergraduate student in The Open University of Sri Lanka. I love
 
 ## 🌐 Connect with Me
 
-I'm always open to collaborating on **Full-Stack projects** or discussing **Technologies**. you can contact me.
+I'm always open to collaborating on **Full-Stack projects** or discussing **Technologies**. you can contact me,
 
 📍 **Location:** Colombo, Sri Lanka
 

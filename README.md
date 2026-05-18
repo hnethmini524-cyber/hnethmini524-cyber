@@ -4,7 +4,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&color=7F3FBF&center=true&vCenter=true&width=600&lines=Full+Stack+Software+Engineer;Java+%7C+Spring+Boot+%7C+React;Building+Real-World+Applications;Exploring+Space+and+Technology" />
 </p>
----
 
 ## 🌟 About Me
 

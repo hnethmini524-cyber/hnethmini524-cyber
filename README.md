@@ -22,11 +22,13 @@ I am currently undergraduate student in The Open University of Sri Lanka. I love
 <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,bootstrap,tailwind" />
 </p>
 
+
 ## 💻 Backend Stack
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=java,spring,mysql,python,nodejs" />
 </p>
+
 
 ## 🛠 Tools
 

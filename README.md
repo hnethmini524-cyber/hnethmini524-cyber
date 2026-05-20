@@ -10,7 +10,7 @@
 I am currently undergraduate student in The Open University of Sri Lanka. I love transforming ideas into interactive and user-friendly applications.
 
 🚀 Aspiring Full-Stack Software Engineer <br>
-☕ Java | SpringBoot | MySQL <br> 
+☕ Java | SpringBoot | React | MySQL <br> 
 💡 Passionate about building real-world applications <br>
 🧠 Curious, exploring new technologies and improving my skills
 

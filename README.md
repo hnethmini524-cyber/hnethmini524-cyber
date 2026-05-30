@@ -1,8 +1,6 @@
 <h1 align="center">👋 Hi, I'm Hirushi Nethmini</h1>
 <h3 align="center">Full Stack Software Engineer</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=hnethmini524-cyber&label=Profile%20views&color=0e75b6&style=flat" alt="hnethmini524-cyber" /> </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&color=blue&center=true&vCenter=true&width=600&lines=Full+Stack+Software+Engineer;Java+%7C+Spring+Boot+%7C+React;Building+Real-World+Applications;Exploring+Space+and+Technology" />
 </p>

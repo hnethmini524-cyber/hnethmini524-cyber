@@ -68,6 +68,8 @@ I'm always open to collaborating on **Full-Stack projects** or discussing **Tech
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:ka.hirushinethmini@gmail.com
 )
 
-> Dream big. Write code to explore the unknown depths.
+---
+
+> 🚀 Dream big. Write code to explore the unknown depths.
 
 

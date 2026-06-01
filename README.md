@@ -56,8 +56,6 @@ I am currently undergraduate student in The Open University of Sri Lanka. I love
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hnethmini524-cyber&theme=tokyo-night" width="100%" />
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
 ---
 
 ## 🌐 Connect with Me

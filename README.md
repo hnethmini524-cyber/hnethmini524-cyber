@@ -13,6 +13,7 @@ I am currently undergraduate student in The Open University of Sri Lanka. I love
 ☕ Java | SpringBoot | React | MySQL <br> 
 💡 Passionate about building real-world applications <br>
 🧠 Curious, exploring new technologies and improving my skills
+
 ---
 
 ## 💻 Frontend Stack

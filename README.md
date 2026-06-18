@@ -65,7 +65,7 @@ I'm always open to collaborating on **Full-Stack projects** or discussing **Tech
 
 📍 **Location:** Colombo, Sri Lanka
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]([https://linkedin.com/in/your-profile-username](https://www.linkedin.com/in/hirushi-nethmini-444b36380 )
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]([[https://linkedin.com/in/your-profile-username](https://www.linkedin.com/in/hirushi-nethmini-444b36380)])
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:ka.hirushinethmini@gmail.com
 )
 

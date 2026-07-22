@@ -44,6 +44,32 @@ I am currently undergraduate student in The Open University of Sri Lanka. I love
 
 ---
 
+## Featured Projects
+
+### [Space Themed Blog Application](https://github.com/hnethmini524-cyber/Space-Technology-Blog)
+
+- Tech Stack: React, TypeScript, Vite, Tailwind, Spring Boot, MySQL
+
+- A modern full-stack blogging platform focused on Space Technology, Astronomy, Astrophysics, Cosmology, and Space Exploration.
+
+- This project was developed to demonstrate backend engineering, authentication & authorization, REST API design, frontend integration, database management, and secure full-stack development practices.
+
+### [Deep-Sea-Exploration-Research-Management-Platform (Ongoing)](https://github.com/hnethmini524-cyber/Deep-Sea-Exploration-Research-Management-Platform)
+
+- Tech Stack: React,Tailwind CSS, Spring Boot, MySQL
+
+- A web-based Deep Sea Exploration Research Management Platform designed to centralize and organize information collected during deep-sea exploration missions.
+
+- This provides a structured environment for managing research missions, researchers, species observations, collected samples, and exploration areas.
+
+### [Luxury Interior Design Portfolio Website (Frontend Project)](https://github.com/hnethmini524-cyber/Modern-Interior-Home-Decoration-Website)
+
+- Frontend - React, Tailwind, React, Framer Motion
+
+- A modern luxury interior design website crafted with elegant UI/UX principles, immersive visuals, smooth layouts, and responsive frontend architecture.
+
+---
+
 ### 📊 My Stats
 
 <p align="center">

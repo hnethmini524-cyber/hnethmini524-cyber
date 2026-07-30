@@ -55,7 +55,7 @@ Tech Stack: React, TypeScript, Vite, Tailwind, Spring Boot, MySQL
 
 ### [Deep-Sea-Exploration-Research-Management-Platform](https://github.com/hnethmini524-cyber/Deep-Sea-Exploration-Research-Management-Platform)
 
-Tech Stack: React,Tailwind CSS, Spring Boot, MySQL
+Tech Stack: React, Bootstrap, Spring Boot, MySQL
 
 - A web-based Deep Sea Exploration Research Management Platform designed to centralize and organize information collected during deep-sea exploration missions.
 - This provides a structured environment for managing research missions, researchers, species observations, collected samples, and exploration areas.

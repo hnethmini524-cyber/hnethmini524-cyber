@@ -53,7 +53,7 @@ Tech Stack: React, TypeScript, Vite, Tailwind, Spring Boot, MySQL
 - A modern full-stack blogging platform focused on Space Technology, Astronomy, Astrophysics, Cosmology, and Space Exploration.
 - This project was developed to demonstrate backend engineering, authentication & authorization, REST API design, frontend integration, database management, and secure full-stack development practices.
 
-### [Deep-Sea-Exploration-Research-Management-Platform (Ongoing)](https://github.com/hnethmini524-cyber/Deep-Sea-Exploration-Research-Management-Platform)
+### [Deep-Sea-Exploration-Research-Management-Platform](https://github.com/hnethmini524-cyber/Deep-Sea-Exploration-Research-Management-Platform)
 
 Tech Stack: React,Tailwind CSS, Spring Boot, MySQL
 

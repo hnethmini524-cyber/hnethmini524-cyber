@@ -35,6 +35,10 @@ I am currently undergraduate student in The Open University of Sri Lanka. I love
 <p align="left">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,selenium,postman"/>
 <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=Cloudinary&logoColor=white"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+<img src="https://img.shields.io/badge/Aiven-EA6C00?style=for-the-badge&logo=aiven&logoColor=white" />
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
 </p>
 
 **Other Tools:**  

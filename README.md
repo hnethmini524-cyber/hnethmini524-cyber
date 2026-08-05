@@ -61,6 +61,8 @@ Tech Stack: React, TypeScript, Vite, Tailwind, Spring Boot, MySQL
 
 Tech Stack: React, Bootstrap, Spring Boot, MySQL
 
+- 🌐 Live Demo: [[View Application](https://deepsearesearch.netlify.app/)]
+- Login credentials: email: [admin@exploration.org] , password: [admin123]
 - A web-based Deep Sea Exploration Research Management Platform designed to centralize and organize information collected during deep-sea exploration missions.
 - This provides a structured environment for managing research missions, researchers, species observations, collected samples, and exploration areas.
 
@@ -68,6 +70,7 @@ Tech Stack: React, Bootstrap, Spring Boot, MySQL
 
 Frontend - React, Tailwind, React, Framer Motion
 
+- 🌐 Live Demo: [[View Website](https://velvethaus.netlify.app/)]
 - A modern luxury interior design website crafted with elegant UI/UX principles, immersive visuals, smooth layouts, and responsive frontend architecture.
 
 ---

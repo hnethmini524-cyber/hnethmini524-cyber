@@ -75,7 +75,18 @@ Frontend - React, Tailwind, React, Framer Motion
 
 ---
 
+### 📊 My Stats
 
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hnethmini524-cyber&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" width="48%" />
+
+  <img src="https://streak-stats.demolab.com?user=hnethmini524-cyber&theme=tokyonight&v=1" width="48%" />
+</p>
+
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hnethmini524-cyber&theme=tokyo-night" width="100%" />
+</p>
 
 
 ---

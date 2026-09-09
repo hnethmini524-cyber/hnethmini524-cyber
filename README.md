@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&color=blue&center=true&vCenter=true&width=600&lines=Full+Stack+Software+Engineer;Java+%7C+Spring+Boot+%7C+React;Building+Real-World+Applications;Exploring+Space+and+Technology" />
 </p>
 
-## 🌟 About Me
+
 
 I am currently undergraduate student in The Open University of Sri Lanka. I love transforming ideas into interactive and user-friendly applications.
 

@@ -50,6 +50,10 @@ I am currently undergraduate student in The Open University of Sri Lanka. I love
 
 ## Featured Projects
 
+### [An Environmental Hazard Aggregation Platform - Ongoing Project](https://github.com/hnethmini524-cyber/An-Environmental-Hazard-Aggregation-Platform)
+
+- The application aggregates selected environmental data sources, normalizes the information, calculates simplified risk levels, and presents location-based environmental conditions and alerts through a simple dashboard.
+
 ### [Space Themed Blog Application](https://github.com/hnethmini524-cyber/Space-Technology-Blog)
 
 Tech Stack: React, TypeScript, Vite, Tailwind, Spring Boot, MySQL
